@@ -59,16 +59,14 @@ The Azure journey enablement program is split in 6 modules that will up-skill yo
 | **Azure Cloud Adoption Framework** | <ul><li>[ Azure Cloud adoption framework Documentation ](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)</li><li>[ Cloud Adoption Framework Webinar](https://info.microsoft.com/AP-AzureApp-WBNR-FY21-08Aug-04-CloudAdoptionFrameworkVirtualWorkshop-SRDEM33634_LP01Registration-ForminBody.html)</li></ul>      |
 | **Recommended certifications** | <ul><li>[Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator)</li><li>[Azure Solution Architect](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect)</li></ul>
 | **Microsoft Learn** | [Microsoft Learn](http://learn.microsoft.com/)
+| Azure Fundamentals	| https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals |
+| Get acquainted with the Azure Migration Center |	https://azure.microsoft.com/en-us/migration/ |
 
 ## Module 1: Landing the Deal (Sales / Pre-sales / Tech)
 
 |        Topic          |            Content                                                               |
 | --------------------- | -------------------------------------------------------------------------------- |
 | **Session recording**   |  TDB                   |
-| **Cloud Adoption Framework** |<ul><li>https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/</li><li>https://info.microsoft.com/AP-AzureApp-WBNR-FY21-08Aug-04-CloudAdoptionFrameworkVirtualWorkshop-SRDEM33634_LP01Registration-ForminBody.html</li></ul> |
-|Azure Certification path|<ul><li>https://docs.microsoft.com/en-us/learn/certifications/exams/az-104</li><li>https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect</li></ul>|
- |Azure Fundamentals | https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals|
- |Get acquainted with the Azure Migration Center|https://azure.microsoft.com/en-us/migration/|
 
 
 
