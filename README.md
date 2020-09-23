@@ -65,6 +65,7 @@ The Azure journey enablement program is split in 6 modules that will up-skill yo
 
 |        Topic          |            Content                                                               |
 | --------------------- | -------------------------------------------------------------------------------- |
+| Slide deck            | https://aka.ms/JourneyContent1                                                   |
 | **Azure Cloud Adoption Framework**   |  https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/3-define-strategy |
 | **Sales programs and Azure Value proposition** | <ul><li>https://info.microsoft.com/ww-ondemand-azure-webinar-series-the-total-economic-impact-of-azure-iaas.html</li><li>https://info.microsoft.com/ww-landing-why-choose-azure-for-your-windows-server-and-sql-server-workloads.html</li><li>https://docs.microsoft.com/en-us/learn/paths/learn-business-value-of-azure/</li></ul>|
 | **RFI / RFP** | https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-standard-response-to-rfi-on-security-privacy-and-compliance/Azure%20-%20Standard%20Response%20for%20Request%20for%20Information%20-%20Compliance%20Privacy%20and%20Security.pdf|
