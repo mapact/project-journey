@@ -76,7 +76,7 @@ The Azure journey enablement program is split in 6 modules that will up-skill yo
 
 |        Topic          |            Content                                                               |
 | --------------------- | -------------------------------------------------------------------------------- |
-| **Slide deck**            | https://aka.ms/JourneyContent2                                                   |
+| **Slide Deck**            | <ul><li>[Module 2 - Discover, Assess, Plan](https://github.com/mapact/project-journey/blob/master/Module%202%20-%20Discover%20Assess%20Plan.pdf)</li></ul>  |
 | **Cloud Adoption Framework: PLAN** | <ul><li>[CAF:Plan Documentation](https://aka.ms/adopt/plan)</li><li>[Microsoft Learn Module](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/4-plan)</li></ul>  |
 | **Cloud Adoption Framework: READY** | <ul><li>[CAF:Ready Documentation](https://aka.ms/adopt/ready)</li><li>[Microsoft Learn Module](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/5-ready)</li></ul> |
 | **Azure Devops / Boards** | <ul><li>[Microsoft Learn Module: Evolve Your Devops Practices](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/)</li></ul> |
