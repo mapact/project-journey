@@ -76,6 +76,12 @@ The Azure journey enablement program is split in 6 modules that will up-skill yo
 
 |        Topic          |            Content                                                               |
 | --------------------- | -------------------------------------------------------------------------------- |
+| **Slide deck**            | https://aka.ms/JourneyContent2                                                   |
+| **Cloud Adoption Framework: PLAN** | <ul><li>[CAF:Plan Documentation](https://aka.ms/adopt/plan)</li><li>[Microsoft Learn Module](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/4-plan)</li></ul>  |
+| **Cloud Adoption Framework: READY** | <ul><li>[CAF:Ready Documentation](https://aka.ms/adopt/ready)</li><li>[Microsoft Learn Module](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/5-ready)</li></ul> |
+| **Azure Devops / Boards** | <ul><li>[Microsoft Learn Module: Evolve Your Devops Practices](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/)</li></ul> |
+| **Running Assessments** | <ul><li>[Microsoft Learn Module: Azure Migrate Discover Assess](https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-discover-assess/)</li><li>[>>REGISTER HERE<< for Deep-Dive Assessment Tool Training Series](https://www.microsoftevents.com/profile/web/index.cfm?PKwebID=0x2039100abcd)</li></ul> |
+| **CAF Tools & Templates** | <ul><li>[Strategy & Plan Template](https://raw.githubusercontent.com/microsoft/CloudAdoptionFramework/master/plan/cloud-adoption-framework-strategy-and-plan-template.docx)</li><li>[Governance Baseline Assessment Tool](https://cafbaseline.com/)</li><li>[Cloud Adoption Plan Generator for Azure Devops](https://azuredevopsdemogenerator.azurewebsites.net/?name=CloudAdoptionPlan)</li></ul> |
 | **Session recording**   |  TDB                   |
 
 ## Module 3: Getting Ready to Migrate
