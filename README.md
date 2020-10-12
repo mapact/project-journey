@@ -89,8 +89,7 @@ The Azure journey enablement program is split in 6 modules that will up-skill yo
 | --------------------- | -------------------------------------------------------------------------------- |
 | **Slide Deck**            | <ul><li>[Module 3 - Getting Ready](https://github.com/mapact/project-journey/blob/master/Module%203%20-%20Getting%20Ready.pdf)</li></ul>  |
 | **Cloud Adoption Framework: Ready** | <ul><li>[CAF:Plan Documentation](https://aka.ms/adopt/ready)</li><li>[Microsoft Learn Module](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/5-ready)</li></ul>  |
-| **Create an enterprise scale architecture** | <ul><li>[Enterprise scale](https://docs.microsoft.com/en-us/learn/paths/enterprise-scale-architecture/
- )</li><li>[Enterprise scale github](https://github.com/Azure/Enterprise-Scale)</li></ul> |
+| **Create an enterprise scale architecture** | <ul><li>[Enterprise scale](https://docs.microsoft.com/en-us/learn/paths/enterprise-scale-architecture/)</li><li>[Enterprise scale github](https://github.com/Azure/Enterprise-Scale)</li></ul> |
 | **Terraform landing zone** | <ul><li>[Deploy a level100 landing zone](https://github.com/Azure/caf-terraform-landingzones/)</li><li>[Terraform landing zone introduction](https://www.youtube.com/watch?v=w0W90bqZaWA)</li></ul> |
 | **Azure Design and architecture best practices** | <ul><li>[Webinar](https://info.microsoft.com/AP-HCSAzureHybridInfra-WBNR-FY21-09Sep-29-AzureDesignandArchitectureBestPractices-SRDEM37046_LP02OnDemandRegistration-ForminBody.html)</li></ul> |
 | **Azure Security Best practices** | <ul><li>[Webinar](https://info.microsoft.com/AP-HCSAzureHybridInfra-WBNR-FY21-09Sep-29-AzureDesignandArchitectureBestPractices-SRDEM37046_LP02OnDemandRegistration-ForminBody.html)</li></ul> |
