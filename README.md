@@ -98,7 +98,14 @@ The Azure journey enablement program is split in 6 modules that will up-skill yo
 
 |        Topic          |            Content                                                               |
 | --------------------- | -------------------------------------------------------------------------------- |
-| **Session recording**   |  TDB                   |
+| **Slide Deck**            | <ul><li>[Module 4 - The Main Event](https://github.com/mapact/project-journey/blob/master/Module%204%20-%20The%20Main%20event.pdf)</li></ul>  |
+| **Cloud Adoption Framework: Migrate** | <ul><li>[CAF:Migrate Documentation](https://aka.ms/adopt/migrate)</li></ul>  |
+| **Azure migrate for server** | <ul><li>[Migrate VMs](https://docs.microsoft.com/en-us/learn/paths/m365-azure-migrate-virtual-machine/)</li></ul> |
+| **Hands on Lab** | <ul><li>[Migrate LOB app](https://github.com/microsoft/MCW-Line-of-business-application-migration)</li></ul> |
+| **Migrate your relational data stored in SQL server** | <ul><li>[Migrate to Azure SQL](https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/)</li></ul> |
+| **Design a holistic monitoring strategy on Azure** | <ul><li>[Monitoring guidelines](https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/)</li></ul> |
+
+
 
 ## Module 5: Continuing the Journey
 
