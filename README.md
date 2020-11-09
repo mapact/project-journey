@@ -111,5 +111,14 @@ The Azure journey enablement program is split in 6 modules that will up-skill yo
 
 |        Topic          |            Content                                                               |
 | --------------------- | -------------------------------------------------------------------------------- |
-| **Session recording**   |  TDB                   |
+| **Slide Deck**   |  <ul><li>[Module 5 - Continuing the Journey](https://github.com/mapact/project-journey/blob/master/Module%205%20-%20Continuing%20the%20Journey.pdf)</li></ul>                |
+| **Cloud Adoption Framework: Govern** | <ul><li>[CAF:Migrate Documentation](https://aka.ms/adopt/govern)</li></ul>  |
+| **Governance** | <ul><li>[Build a governance strategy](https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/
+)</li></ul>  |
+| **Cost Management** | <ul><li>[Predict Cost and optimize spending](https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending
+)</li></ul>  |
+| **Policies** | <ul><li>[Sample repository](https://github.com/Azure/azure-policy)</li><li>[community repository](https://github.com/Azure/Community-Policy
+)</li><li>[Policy and github](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/policy-as-code-github)</li><li>[Apply and monitor infrastructure standard with Azure Policy
+](https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/)</li></ul>  |
+| **HandsOn lab** | <ul><li>[Security baseline Hands on Lab](https://github.com/microsoft/MCW-Security-baseline-on-Azure)</li></ul>  |
 
